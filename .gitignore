@@ -13,3 +13,4 @@ ___*.py
 **/build/
 **/dist/
 **/*.egg-info/
+**/nuscenes_mini/
